@@ -19,6 +19,7 @@ Foco: KPIs operativos y métricas de rotación.
 
 Métricas Clave: Tasa de atrición, promedio de edad, años de servicio y satisfacción por departamento.
 
+<img width="1332" height="751" alt="Dashboard en Power BI" src="https://github.com/user-attachments/assets/d695e43a-fd38-45d9-92d5-0f45fd585325" />
 
 ![Power BI Dashboard](imagenes/Dashboad-en-Power-BI.png)
 
