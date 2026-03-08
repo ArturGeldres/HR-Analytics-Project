@@ -20,7 +20,7 @@ Foco: KPIs operativos y métricas de rotación.
 Métricas Clave: Tasa de atrición, promedio de edad, años de servicio y satisfacción por departamento.
 
 
-![Power BI Dashboard](imagenes/screenshot_powerbi.png)
+![Power BI Dashboard](imagenes/Dashboad-en-Power-BI.png)
 
 2. Dashboard en Tableau
 Foco: Análisis exploratorio y tendencias demográficas.
