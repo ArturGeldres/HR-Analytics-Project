@@ -19,17 +19,17 @@ Foco: KPIs operativos y métricas de rotación.
 
 Métricas Clave: Tasa de atrición, promedio de edad, años de servicio y satisfacción por departamento.
 
-<img width="1332" height="751" alt="Dashboard en Power BI" src="https://github.com/user-attachments/assets/d695e43a-fd38-45d9-92d5-0f45fd585325" />
+<img width="1667" height="992" alt="Dashborad en Tableau" src="https://github.com/user-attachments/assets/35e1d967-a06a-4da9-88c9-8ef9475978fb" />
+<img width="1895" height="973" alt="Dashborad en Power BI" src="https://github.com/user-attachments/assets/044accfd-eefe-4c76-be07-25f55dcedede" />
 
-![Power BI Dashboard](imagenes/Dashboad-en-Power-BI.png)
 
 2. Dashboard en Tableau
 Foco: Análisis exploratorio y tendencias demográficas.
 
 Métricas Clave: Distribución por género, nivel educativo y distancia al trabajo vs. rotación.
+<img width="1895" height="973" alt="Dashborad en Power BI" src="https://github.com/user-attachments/assets/9ed7a201-7de7-490e-92de-cfe700f0408b" />
 
-(Opcional: Inserta aquí una captura de pantalla de tu Tableau)
-![Tableau Dashboard](imagenes/screenshot_tableau.png)
+<img width="1667" height="992" alt="Dashborad en Tableau" src="https://github.com/user-attachments/assets/0285cd56-360d-404f-a99e-208905c1ec18" />
 
 🧠 Insights Identificados
 A través de las visualizaciones, se determinaron los siguientes puntos clave:
@@ -57,6 +57,6 @@ Para Power BI: Necesitas tener instalado Power BI Desktop.
 Para Tableau: Puedes abrirlo con Tableau Desktop o subirlo a Tableau Public.
 
 📩 Contacto
-LinkedIn: [Tu enlace de LinkedIn aquí]
+LinkedIn: [www.linkedin.com/in/arturo-geldres]
 
-Portafolio: [Enlace a otros proyectos de GitHub]
+Portafolio: [PROXIMAMENTE]
